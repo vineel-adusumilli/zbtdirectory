@@ -1,0 +1,29 @@
+{
+  "name": "zbtdirectory",
+  "version": "1.0.0",
+  "description": "ZBT Directory Facebook Messenger Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineel-adusumilli/zbtdirectory.git"
+  },
+  "keywords": [
+    "zbt",
+    "directory"
+  ],
+  "author": "vineel-adusumilli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vineel-adusumilli/zbtdirectory/issues"
+  },
+  "homepage": "https://github.com/vineel-adusumilli/zbtdirectory#readme",
+  "engines": {
+    "node": "5.10.1"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
